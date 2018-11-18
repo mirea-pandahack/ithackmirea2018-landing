@@ -157,7 +157,7 @@
     width: 100% !important;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
     .li-width__75{
         width: 75% !important;
     }
