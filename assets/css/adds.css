@@ -157,8 +157,10 @@
     width: 100% !important;
 }
 
-.li-width__75{
-    width: 75% !important;
+@media screen and (min-width: 700px) {
+    .li-width__75{
+        width: 75% !important;
+    }
 }
 
 .faq{
