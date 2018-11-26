@@ -138,6 +138,14 @@
     text-align: left;
 }
 
+.tasks-list__main a{
+    border-bottom: 0;
+}
+
+.tasks-list__main span:before{
+    cursor: pointer;
+}
+
 
 .nice-h3:after{
     display: block;
