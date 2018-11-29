@@ -301,3 +301,11 @@
 .map-img img{
     max-width: 100%;
 }
+
+.no-bottom-margin{
+    margin-bottom: 0;
+}
+
+.links-no-border a{
+    border-bottom: 0;
+}
