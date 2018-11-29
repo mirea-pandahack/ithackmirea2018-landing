@@ -142,6 +142,10 @@
     border-bottom: 0;
 }
 
+.tasks-list__main a:hover h3 span{
+    border-bottom: dotted 1px;
+}
+
 .tasks-list__main span:before{
     cursor: pointer;
 }

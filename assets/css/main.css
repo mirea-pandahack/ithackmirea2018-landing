@@ -2366,6 +2366,10 @@
 			color: #8cc9f0;
 		}
 
+        .icon.style6 {
+            color: #8CCD7E;
+        }
+
 		@media screen and (max-width: 1680px) {
 
 			.icon.major:before {
