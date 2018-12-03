@@ -313,3 +313,7 @@
 .links-no-border a{
     border-bottom: 0;
 }
+
+.fix__width50{
+    width: 50%;
+}
