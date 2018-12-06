@@ -5,4 +5,4 @@ Original theme: https://html5up.net/stellar
 ## Links
 
 * https://ithack.mirea.ru
-* https://t.me/ithackmirea
+* https://t-do.ru/ithackmirea
